@@ -1,2 +1,3 @@
 # ss
-My screenshots
+
+My shared screenshots, logos, demos and other binary files.
